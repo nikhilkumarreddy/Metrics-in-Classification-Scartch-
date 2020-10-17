@@ -1,3 +1,2 @@
+# Metrics in Classification from Scratch
 
-
-#Confusion Metrics from Scratch
